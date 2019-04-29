@@ -13,7 +13,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Raleway';
+  font-family: 'Acme';
 }
 
 p {
@@ -29,7 +29,7 @@ p {
   margin-bottom: 5rem;
   text-transform: uppercase;
   line-height: 1;
-  font-family: 'Raleway';
+  font-family: 'Acme';
 }
 
 .site-heading .site-heading-upper {
@@ -71,7 +71,7 @@ p {
 
 #mainNav {
   background-color: rgba(29, 204, 169, 0.9);
-  font-family: 'Raleway';
+  font-family: 'Acme';
 }
 
 #mainNav .navbar-brand {
